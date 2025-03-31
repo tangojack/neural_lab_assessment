@@ -16,7 +16,7 @@ Future insights and optimizations can be derived efficiently once the structure 
 
 # Notes about Models
 
-Like every business solution, I start of with creating simple models to understand the different entities in the problem.
+Like every business solution, I start of with creating simple models to understand the different entities in the problem. Please read the comments in the SQL file for a detailed understanding about the design choices.
 
 It can be more normalized in the future to include reports for delayed flights, priority flights etc.
 
